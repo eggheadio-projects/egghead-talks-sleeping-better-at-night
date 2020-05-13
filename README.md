@@ -1,6 +1,6 @@
 # Sleeping Better At Night
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 In this talk, [Tomasz](https://twitter.com/tlakomy) gives an overview on why you should test your code, the different types of tests and shares some tools that make testing easier.
@@ -269,6 +269,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://mahmoudabdelwahab.tech"><img src="https://avatars2.githubusercontent.com/u/27310414?v=4" width="100px;" alt=""/><br /><sub><b>Mahmoud Abdel Wahab</b></sub></a><br /><a href="#content-m-abdelwahab" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.dev.to/thecodepixi"><img src="https://avatars2.githubusercontent.com/u/16492325?v=4" width="100px;" alt=""/><br /><sub><b>Emily Harber</b></sub></a><br /><a href="#content-thecodepixi" title="Content">🖋</a></td>
   </tr>
 </table>
 
