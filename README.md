@@ -22,6 +22,13 @@ Here's the [talk link](https://egghead.io/lessons/egghead-egghead-talks-sleeping
     - [User Testing](#user-testing)
   - [Key Takeaways](#key-takeaways)
 
+## Key Takeaways
+
+- Care about your users and understand their needs.
+- The closer you are to the user (understanding their goals, their behaviors, etc.) === the better tests you'll write. _Understanding the user requirements is essential._
+- Take care of yourself. No matter how many tests you have, things can still go wrong and that's okay.
+
+
 ## Why are you afraid of pushing to production of Friday?
 
 Your code doesn't care about which day of the week it is, it doesn't know the difference between tuesday and friday so why should you?
@@ -245,13 +252,6 @@ Are your users finding value in what you're offering?
 The best way to find out is by making them use your software, asking questions and receiving feedback.
 
 A great book about user testing is ["Rocket Surgery made easy" by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292). It's short and it teaches you how to talk to your users.
-
-## Key Takeaways
-
-- Care about your users and understand their needs.
-- The closer you are to the user (understanding their goals, their behaviors, etc.) === the better tests you'll write. _Understanding the user requirements is essential._
-- Take care of yourself. No matter how many tests you have, things can still go wrong and that's okay.
-
 
 _Don't forget to watch the [post-talk Q&A](https://egghead.io/lessons/egghead-egghead-talks-sleeping-better-at-night#t=2530)_
 
